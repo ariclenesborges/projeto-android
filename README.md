@@ -12,7 +12,7 @@
 
 - HTML5
 - CSS3
--Git e Github
+- Git e Github
 
 ## Contato
 
